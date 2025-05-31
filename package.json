@@ -1,0 +1,26 @@
+{
+  "name": "vladimirgamalyan.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirgamalyan/vladimirgamalyan.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vladimirgamalyan/vladimirgamalyan.github.io/issues"
+  },
+  "homepage": "https://github.com/vladimirgamalyan/vladimirgamalyan.github.io#readme",
+  "devDependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
