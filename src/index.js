@@ -1,1 +1,2 @@
-console.log("Hello, Webpack!");
+import './styles/main.css';
+console.log("Главная страница");
