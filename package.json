@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+	"start": "eleventy --serve",
 	"build": "npx @11ty/eleventy",
-	"build-ghpages": "npx @11ty/eleventy --pathprefix=/vladimirgamalyan.github.io/",
+	"_build-ghpages": "npx @11ty/eleventy --pathprefix=/vladimirgamalyan.github.io/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
